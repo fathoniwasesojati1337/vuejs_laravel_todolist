@@ -1,7 +1,7 @@
 # Description
 website todolist with laravel framework backend and vuejs framework frontend using rest api instagram : @vha_1337 or my email : mfwj21@gmail.com  thank you dont forget to subscirbe
 
-## A. Features Laravel and Vuejs 🚀 
+## A. Features Laravel with Vuejs 🚀 
 
 Features :
 
